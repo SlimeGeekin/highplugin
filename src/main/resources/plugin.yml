@@ -1,0 +1,4 @@
+name: highplugin
+version: '1.0-SNAPSHOT'
+main: me.eclipsorz.highplugin.Highplugin
+api-version: '1.21'
